@@ -1,12 +1,3 @@
-
-
-
-
-at > app/src/main/java/com/beast/launcher/MainActivity.java <<'EOF'
-package com.beast.launcher;
-
-import android.app.*;
-import android.os.*;
 import android.graphics.Color;
 import android.graphics.Typeface;
 import android.graphics.drawable.GradientDrawable;
@@ -373,5 +364,4 @@ public class MainActivity extends Activity {
         }
     }
 }
-EOF
 
