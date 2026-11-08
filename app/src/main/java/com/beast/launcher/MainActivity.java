@@ -1,5 +1,7 @@
 package com.beast.launcher;
 
+import android.app.AlertDialog;
+import android.os.Handler;
 import android.app.Activity;
 import android.os.Bundle;
 import android.graphics.Color;
