@@ -1,6 +1,6 @@
 name: BEAST APK Builder
 
-on:
+'on':
   workflow_dispatch:
   push:
     branches: [main]
@@ -43,7 +43,7 @@ EOFcd ~/BEAST-LAUNCHER
 cat > .github/workflows/build.yml <<'EOF'
 name: BEAST APK Builder
 
-on:
+'on':
   workflow_dispatch:
   push:
     branches: [main]
